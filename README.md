@@ -15,4 +15,6 @@ Here are the total number of products with more than 20 reviews, this combines b
 
 ![final comparison](https://user-images.githubusercontent.com/91210001/149638893-b7f26b3d-1862-40dd-be1e-8b149ab2d4ac.PNG)
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Summary: In summation, with the data provided, I cannot see any significant bias in either direction. The paid reviews and the unpaid reviews have the same % of 5 star reviews.
+
+One additional measure would be to compare and contrast the other reviews from 0 to 4 stars to see if there was any further variation between the 2.  Additional paid reviews would also be better for the analysis.
