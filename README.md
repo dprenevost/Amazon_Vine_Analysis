@@ -12,6 +12,7 @@ Here are the total number of products with more than 20 reviews, this combines b
 ![total_5_star](https://user-images.githubusercontent.com/91210001/149638813-6ccbf1a8-9633-42b2-8899-77ee710a034f.PNG)
 
 * Here is a summary of the 5 star reviews %.
+
 ![final comparison](https://user-images.githubusercontent.com/91210001/149638893-b7f26b3d-1862-40dd-be1e-8b149ab2d4ac.PNG)
 
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
